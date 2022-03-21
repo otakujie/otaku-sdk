@@ -1,0 +1,21 @@
+{
+    "name": "otakujie/otaku-sdk",
+    "description": "Features developed by composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Otakujie\\OtakuSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "otakujie",
+            "email": "otakuweijie@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
